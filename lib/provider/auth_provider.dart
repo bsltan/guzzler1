@@ -36,7 +36,7 @@ class AuthProvider extends ChangeNotifier {
           }
           codeAutoRetrivalTimeout: (verificationId) {});
     } on FirebaeAuthException catch (e) {
-      await showSnackBar(context, e.message.toString());
+      showSnackBar(context, e.message.toString());
     }
   }
 }
