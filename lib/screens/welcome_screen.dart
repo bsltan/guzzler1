@@ -53,7 +53,8 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
             height: 50,
             child: CustomButton(
               onPressed: () {
-                ap.isSignedIn == false
+                ap.isSignedIn ==
+                        true // when true, then fetch shared preferences
                     ? Navigator.push(
                         context,
                         MaterialPageRoute(
