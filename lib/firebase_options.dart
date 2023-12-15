@@ -44,38 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBHKlGIbuZskSphKCJW0F1L1dAjs7B4fVs',
-    appId: '1:213699759438:web:a6f3548794c32e024d221f',
-    messagingSenderId: '213699759438',
-    projectId: 'guzzler-62953',
-    authDomain: 'guzzler-62953.firebaseapp.com',
-    storageBucket: 'guzzler-62953.appspot.com',
-    measurementId: 'G-SMSJ1ZQBJF',
+    apiKey: 'AIzaSyAZ1_jQcgQ4fapiUXqBzaHu0L5LThzdBdM',
+    appId: '1:48983974458:web:823c366fb88f756376cb03',
+    messagingSenderId: '48983974458',
+    projectId: 'guzzler-7f112',
+    authDomain: 'guzzler-7f112.firebaseapp.com',
+    storageBucket: 'guzzler-7f112.appspot.com',
+    measurementId: 'G-Z37Z0N23T0',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBq0cEJ-QZd_WFOtz-3AeCOEubydXwkSds',
-    appId: '1:213699759438:android:c3b5f66e3cc3d14d4d221f',
-    messagingSenderId: '213699759438',
-    projectId: 'guzzler-62953',
-    storageBucket: 'guzzler-62953.appspot.com',
+    apiKey: 'AIzaSyAd8L3fkyq-iT1KpHhLxngTNvTdPRFOUq4',
+    appId: '1:48983974458:android:28e450b8618539a076cb03',
+    messagingSenderId: '48983974458',
+    projectId: 'guzzler-7f112',
+    storageBucket: 'guzzler-7f112.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD196DyM3PLDNviXCZIr2KdzJJWR3XwbMo',
-    appId: '1:213699759438:ios:661b2f7d6d8148e74d221f',
-    messagingSenderId: '213699759438',
-    projectId: 'guzzler-62953',
-    storageBucket: 'guzzler-62953.appspot.com',
+    apiKey: 'AIzaSyAeHFw25waaN-cF85WiBi_CuE_Tns8RARI',
+    appId: '1:48983974458:ios:b8653038f24e4d6476cb03',
+    messagingSenderId: '48983974458',
+    projectId: 'guzzler-7f112',
+    storageBucket: 'guzzler-7f112.appspot.com',
     iosBundleId: 'com.example.guzzler',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyD196DyM3PLDNviXCZIr2KdzJJWR3XwbMo',
-    appId: '1:213699759438:ios:328b3cc922bf82544d221f',
-    messagingSenderId: '213699759438',
-    projectId: 'guzzler-62953',
-    storageBucket: 'guzzler-62953.appspot.com',
+    apiKey: 'AIzaSyAeHFw25waaN-cF85WiBi_CuE_Tns8RARI',
+    appId: '1:48983974458:ios:ff10c6a12343725d76cb03',
+    messagingSenderId: '48983974458',
+    projectId: 'guzzler-7f112',
+    storageBucket: 'guzzler-7f112.appspot.com',
     iosBundleId: 'com.example.guzzler.RunnerTests',
   );
 }
